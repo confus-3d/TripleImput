@@ -29,12 +29,15 @@ Double click the middle blink to start the game.
 
 The game will send 3 actions to every blink, do the action in order to not lose any lives.
 
-Red action - Smash the middle blink on time.
-Green action - Pull and reattach that blink on time.
-Yellow action - Rotate that blink on time.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Red action - Smash the middle blink on time.
 
-A triple white flash means you beat the level. Speed increases.
-A single white light means you beat the round. Same speed and same level.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Green action - Pull and reattach that blink on time. Same face!
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yellow action - Rotate that blink on time. Any different face!
+
+A triple white flash means you beat the level. Speed increases. If multiplayer, pass the Blinks!
+
+A single white light means you beat the round. Rest one second and start again. Same speed, same level, same player.
 
 In higher levels, there are more rounds between levels.
 
