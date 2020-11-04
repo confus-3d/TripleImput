@@ -5,7 +5,7 @@
 
  */
  
- #define MAX_BEAT 2500
+#define MAX_BEAT 2500
 #define MIN_BEAT 1000
 #define MAX_LEVEL 30
 #define DELAY_TIME 150
