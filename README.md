@@ -1,4 +1,6 @@
-# TwistBlink
+![TripleImputBanner](/Images/tripleimput_sticker.jpg) 
+
+# Triple Imput
 
 Game for Blinks by Move 38
 
